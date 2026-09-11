@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://mates1no.lovable.app/sitemap.xml
